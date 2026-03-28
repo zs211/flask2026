@@ -1,0 +1,25 @@
+# Flask 核心
+Flask==2.3.3
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5
+Flask-Mail==0.9.1
+Flask-CORS==4.3.0
+
+# 数据库
+pymysql==1.1.2
+
+# AI 模型（目标检测）
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+
+# 图像处理
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# 科学计算（必须 < 2.0）
+numpy<2.0.0
+scipy==1.11.4
+
+# 工具
+Werkzeug==2.3.7
